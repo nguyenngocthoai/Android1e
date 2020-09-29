@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android1d</string>
+    <string name="login">REGISTER</string>
+    <string name="email">Email</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="when_you_agree_to_terms_and_conditions">When you agree to terms and conditions</string>
+    <string name="phone">Phone</string>
+    <string name="birthday">Birthday</string>
+</resources>
